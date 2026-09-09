@@ -21,6 +21,27 @@ Bienvenue dans .githubSecrets, un dépôt dédié à l'exploration complète du 
    - et toutes les fonctionnalités cachées du dossier .github/
 ```
 
+### 🟦 Structure complète 
 ```text
-.githubSecrets est un guide complet pour maîtriser GitHub comme un expert.
+.githubSecrets/
+├── README.md
+├── secrets-guide.md
+└── .github/
+    ├── ISSUE_TEMPLATE/
+    │   ├── bug_report.yml
+    │   └── feature_request.yml
+    ├── workflows/
+    │   └── ci.yml
+    ├── PULL_REQUEST_TEMPLATE.md
+    ├── CODEOWNERS
+    ├── SECURITY.md
+    ├── CONTRIBUTING.md
+    ├── FUNDING.yml
+    └── dependabot.yml
+```
+
+---
+
+```md
+.githubSecrets est un guide complet pour maîtriser GitHub.
 ```
