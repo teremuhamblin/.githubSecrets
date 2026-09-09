@@ -1,0 +1,4 @@
+.github/workflows/*.tmp
+.github/workflows/*.bak
+.github/actions-cache/
+*.retry
