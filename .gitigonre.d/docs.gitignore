@@ -1,0 +1,6 @@
+_site/
+docs/.cache/
+docs/.temp/
+docs/build/
+docs/dist/
+*.md.bak
