@@ -4,7 +4,33 @@
 # Multi‑langages, CI/CD, Termux, UserLAnd
 ##############################################
 
-###############
+##############################################
+# 🔗 INCLUSIONS DES MODULES .gitignore.d/
+##############################################
+
+# Python
+# (copie automatique des règles du module)
+# Si tu veux activer le module :
+#   cat .gitignore.d/python.gitignore >> .gitignore
+#   (ou tu copies les règles manuellement)
+
+# Node
+#   cat .gitignore.d/node.gitignore >> .gitignore
+
+# Docs
+#   cat .gitignore.d/docs.gitignore >> .gitignore
+
+# CI
+#   cat .gitignore.d/ci.gitignore >> .gitignore
+
+##############################################
+# 🔗 INCLUSION DU .gitignore.local
+##############################################
+
+# Le fichier local n’est pas lu automatiquement.
+# Pour l’activer :
+#   cat .gitignore.local >> .gitignore
+##############
 # 🔥 LOGS
 ###############
 *.log
