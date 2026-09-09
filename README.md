@@ -1,4 +1,7 @@
-###### README.md >> markdown 
+###### README.md >> markdown
+
+[![CI](https://github.com/teremuhamblin/.githubSecrets/actions/workflows/ci.yml/badge.svg)](https://github.com/teremuhamblin/.githubSecrets/actions/workflows/ci.yml)
+
 # .githubSecrets
 - EXPLIQUE, DÉMONTRE et UTILISE tout ce que **GitHub** cache dans ***.github/***
 
