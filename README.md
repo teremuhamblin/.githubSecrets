@@ -10,6 +10,8 @@
 ### 🟩 Mise à jour **~/.github**
    - Projet ***.githubSecrets***
 
+[![pages-build-deployment](https://github.com/teremuhamblin/.githubSecrets/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/teremuhamblin/.githubSecrets/actions/workflows/pages/pages-build-deployment)
+
 Bienvenue dans .githubSecrets, un dépôt dédié à l'exploration complète du dossier .github/ et de tous ses mécanismes internes.
 
 - Ce projet dévoile :
