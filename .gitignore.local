@@ -1,1 +1,28 @@
+##############################################
+# 📱 Termux / Samsung A7 — Local ignore
+##############################################
 
+# Termux session files
+*.termux
+*.session
+*.history
+
+# Termux API temp
+termux-api-cache/
+termux-api-temp/
+
+# Android / UserLAnd
+Android/data/
+Android/obb/
+*.apk
+*.apks
+
+# Shell local
+.bash_history
+.zsh_history
+*.sh.tmp
+*.sh.bak
+
+# Local device caches
+storage/emulated/0/Download/*.tmp
+storage/emulated/0/DCIM/.thumbnails/
