@@ -1,0 +1,11 @@
+name: "Bug Report"
+description: "Signaler un bug"
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      placeholder: "Décris le bug..."
+    validations:
+      required: true
