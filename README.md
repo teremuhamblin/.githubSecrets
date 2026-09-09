@@ -23,6 +23,7 @@ Bienvenue dans .githubSecrets, un dépôt dédié à l'exploration complète du 
    - la politique de sécurité
    - le financement GitHub Sponsors
    - Dependabot
+   - Documentation Github Pages dans docs/
    - et toutes les fonctionnalités cachées du dossier .github/
 ```
 
@@ -31,6 +32,8 @@ Bienvenue dans .githubSecrets, un dépôt dédié à l'exploration complète du 
 .githubSecrets/
 ├── README.md
 ├── secrets-guide.md
+└── docs/
+    ├── Site docs
 └── .github/
     ├── ISSUE_TEMPLATE/
     │   ├── bug_report.yml
