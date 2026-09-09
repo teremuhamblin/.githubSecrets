@@ -1,0 +1,131 @@
+##############################################
+# 🪖 GITIGNORE — MIL‑PRO++ v7.0
+# Auto‑adaptatif pour projets GitHubSecrets
+# Multi‑langages, CI/CD, Termux, UserLAnd
+##############################################
+
+###############
+# 🔥 LOGS
+###############
+*.log
+*.log.*
+logs/
+log/
+npm-debug.log*
+yarn-error.log*
+
+###############
+# ⚡ TEMP / CACHE
+###############
+*.tmp
+*.temp
+*.cache
+*.bak
+*.swp
+*.swo
+*.pid
+*.lock
+cache/
+tmp/
+tmp/*
+
+###############
+# 🐍 PYTHON
+###############
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+ruff_cache/
+
+###############
+# 📦 NODE / JS
+###############
+node_modules/
+.pnpm-store/
+.next/
+.nuxt/
+dist/
+.eslintcache
+vite-cache/
+rollup-cache/
+
+###############
+# 📘 MARKDOWN / DOCS
+###############
+_site/
+docs/.cache/
+docs/.temp/
+docs/build/
+docs/dist/
+
+###############
+# 🧪 TESTS / COVERAGE
+###############
+coverage/
+.coverage
+htmlcov/
+pytest_cache/
+test-output/
+junit.xml
+
+###############
+# 🐳 DOCKER
+###############
+docker-data/
+*.tar
+*.img
+
+###############
+# 🔒 ENVIRONNEMENTS
+###############
+.env
+.env.*
+*.secret
+*.key
+venv/
+.venv/
+env/
+ENV/
+
+###############
+# 🖥️ SYSTEME / OS
+###############
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.lnk
+
+###############
+# 🛠️ IDE / EDITORS
+###############
+.vscode/
+.idea/
+*.orig
+
+###############
+# ⚙️ CI/CD
+###############
+.github/workflows/*.tmp
+.github/workflows/*.bak
+.github/actions-cache/
+*.retry
+
+###############
+# 🪖 MILITARY FRAMEWORKS (LTactic / BlueTeam)
+###############
+reports/
+intel/
+missions/
+ops/
+ops/*
+scanners/
+modules/
+tools/
