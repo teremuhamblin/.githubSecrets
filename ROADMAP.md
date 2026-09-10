@@ -2,7 +2,7 @@
 # 🟨 ROADMAP
 - `.githubSecrets`
 ### 🎯 Vision
-Créer le dépôt de référence pour comprendre, maîtriser et optimiser le dossier `.github/` dans un environnement professionnel et militaire.
+Créer le dépôt de référence pour comprendre, maîtriser et optimiser le dossier `.github/` dans un environnement professionnel et militaire (dépôt de référence GitHub Enterprise pour documenter, automatiser et optimiser le dossier `.github/`.)
 
 ---
 
