@@ -28,10 +28,12 @@ Bienvenue dans .githubSecrets, un dépôt dédié à l'exploration complète du 
 ```
 
 ### 🟦 Structure complète
-- mise a jour v1.0.1
+- mise a jour v2.5.0
 ```text
 .githubSecrets/
 ├── README.md
+├── ROADMAP.md
+├── CHANGELOG.md
 ├── secrets-guide.md
 │
 ├── .gitignore
@@ -48,20 +50,26 @@ Bienvenue dans .githubSecrets, un dépôt dédié à l'exploration complète du 
 │   ├── secrets.md
 │   ├── workflows.md
 │   ├── templates.md
+│   ├── enterprise.md
 │   └── style.css
 │
 └── .github/
     ├── ISSUE_TEMPLATE/
     │   ├── bug_report.yml
     │   └── feature_request.yml
-    ├── PULL_REQUEST_TEMPLATE.md
+    ├── PULLREQUESTTEMPLATE.md
     ├── CODEOWNERS
     ├── SECURITY.md
     ├── CONTRIBUTING.md
     ├── FUNDING.yml
     ├── dependabot.yml
+    ├── labels.yml
     └── workflows/
-        └── ci.yml
+        ├── ci.yml
+        ├── release-auto.yml
+        ├── gitignore-sync.yml
+        ├── docs-build.yml
+        └── labels-auto.yml
 ```
 
 ---
