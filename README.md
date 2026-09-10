@@ -35,6 +35,7 @@ Bienvenue dans .githubSecrets, un dépôt dédié à l'exploration complète du 
 ├── ROADMAP.md
 ├── CHANGELOG.md
 ├── secrets-guide.md
+├── Badges.md
 │
 ├── .gitignore
 ├── .gitignore.local
