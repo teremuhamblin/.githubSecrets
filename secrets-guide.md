@@ -33,4 +33,19 @@ Le dossier `.github/` est le **centre nerveux** d’un projet GitHub professionn
 - la surveillance des dépendances
 ```
 
-Ce dépôt `.githubSecrets` montre comment tout cela fonctionne, avec des exemples concrets.
+>Ce dépôt `.githubSecrets` montre comment tout cela fonctionne, avec des exemples concrets.
+
+# 📁 Mise à jour 
+- `.github/` — Enterprise Edition
+- Le dossier `.github/` est un espace spécial que GitHub lit automatiquement pour configurer :
+   - les formulaires d’issues
+   - les templates de PR
+   - les workflows CI/CD
+   - les règles de validation via CODEOWNERS
+   - les politiques de sécurité
+   - les boutons de financement
+   - la surveillance des dépendances
+   - les labels automatiques
+   - les workflows Enterprise
+
+>Ce guide explique chaque fichier, son rôle, et comment l’utiliser dans un dépôt professionnel.
