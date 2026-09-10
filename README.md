@@ -27,29 +27,41 @@ Bienvenue dans .githubSecrets, un dépôt dédié à l'exploration complète du 
    - et toutes les fonctionnalités cachées du dossier .github/
 ```
 
-### 🟦 Structure complète 
+### 🟦 Structure complète
+- mise a jour v1.0.1
 ```text
 .githubSecrets/
 ├── README.md
+├── secrets-guide.md
+│
 ├── .gitignore
 ├── .gitignore.local
-├── .gitgnore.d/
-    ├── .gitkeep
-├── secrets-guide.md
-└── docs/
-    ├── Site docs
+├── .gitignore.d/
+│   ├── python.gitignore
+│   ├── node.gitignore
+│   ├── docs.gitignore
+│   ├── ci.gitignore
+│   └── .gitkeep
+│
+├── docs/
+│   ├── index.md
+│   ├── secrets.md
+│   ├── workflows.md
+│   ├── templates.md
+│   └── style.css
+│
 └── .github/
     ├── ISSUE_TEMPLATE/
     │   ├── bug_report.yml
     │   └── feature_request.yml
-    ├── workflows/
-    │   └── ci.yml
     ├── PULL_REQUEST_TEMPLATE.md
     ├── CODEOWNERS
     ├── SECURITY.md
     ├── CONTRIBUTING.md
     ├── FUNDING.yml
-    └── dependabot.yml
+    ├── dependabot.yml
+    └── workflows/
+        └── ci.yml
 ```
 
 ---
