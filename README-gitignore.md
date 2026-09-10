@@ -1,8 +1,10 @@
 ###### README-gitignore.md >> markdown 
 # 🪖 Pack GitIgnore
 - MIL‑PRO++ v7.0
-   - Ce pack GitIgnore est conçu pour offrir une structure professionnelle, modulaire, et militaire pour les projets GitHub avancés.  
+```md
+   - Ce pack GitIgnore est conçu pour offrir une structure professionnelle, modulaire, et militaire pour les projets GitHub avancés.
    - Il s’adapte aux environnements Termux, UserLAnd, Android, Python, Node, Docs GitHub Pages, et CI/CD GitHub Actions.
+```
 
 ---
 
@@ -48,8 +50,8 @@
 ---
 
 ### 🔗 Activation des modules
-Git ne supporte pas l’inclusion automatique.  
-Tu actives un module en fusionnant son contenu dans le .gitignore principal :
+- Git ne supporte pas l’inclusion automatique.
+- Tu actives un module en fusionnant son contenu dans le .gitignore principal :
 
 ### 🔥 Activer un module
 ```bash
@@ -79,7 +81,7 @@ cat .gitignore.local >> .gitignore
 │   ├── node.gitignore
 │   ├── docs.gitignore
 │   └── ci.gitignore
-└── README.md
+└── README-gitignore.md
 ```
 
 ---
