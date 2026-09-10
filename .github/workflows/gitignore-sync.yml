@@ -1,0 +1,10 @@
+name: Sync Gitignore
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: cat .gitignore.d/*.gitignore >> .gitignore
