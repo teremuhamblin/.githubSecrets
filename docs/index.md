@@ -1,18 +1,16 @@
 ###### index.md >> markdown 
 # 📁 .githubSecrets
-- Documentation officielle
+- Documentation officielle :
+   - base v1.0.0
+- Documentation Enterprise :
+   - suite du projet
 
-Bienvenue sur la documentation du projet **.githubSecrets**.
+Bienvenue dans la documentation officielle du projet `.githubSecrets`.
 
-Ce site explique et démontre tout ce que GitHub cache dans le dossier `.github/` :
-
-- Templates d’issues
-- Templates de pull requests
-- Workflows GitHub Actions
-- CODEOWNERS
-- SECURITY.md
-- FUNDING.yml
-- Dependabot
-- Organisation interne d’un projet pro
-
-👉 Navigue via le menu pour découvrir chaque section.
+Explore :
+- les secrets du dossier `.github/`
+- les workflows GitHub Actions
+- les templates
+- la sécurité
+- les modules `.gitignore.d/`
+- les outils Enterprise
