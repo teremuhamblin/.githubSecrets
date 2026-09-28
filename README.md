@@ -58,7 +58,7 @@ Bienvenue dans .githubSecrets, un dépôt dédié à l'exploration complète du 
     ├── ISSUE_TEMPLATE/
     │   ├── bug_report.yml
     │   └── feature_request.yml
-    ├── PULLREQUESTTEMPLATE.md
+    ├── PULLREQUESTTEMPLATE.md        ← Correction du nom
     ├── CODEOWNERS
     ├── SECURITY.md
     ├── CONTRIBUTING.md
